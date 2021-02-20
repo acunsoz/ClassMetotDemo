@@ -14,7 +14,7 @@ namespace ClassMetotDemo
         public void Sil(Musteri musteri)
         {
             Console.WriteLine("Musteri silindi: "+musteri.Adi );
-            Console.WriteLine("--------------");
+            Console.WriteLine("---------------");
         }
        
     }
