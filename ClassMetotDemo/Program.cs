@@ -34,7 +34,7 @@ namespace ClassMetotDemo
                 Console.WriteLine("Musteri adi: "+musterin.Adi);
                 Console.WriteLine("Musteri soyadi: "+musterin.Soyadi);
                 Console.WriteLine("Musteri id: "+musterin.id);
-                Console.WriteLine("-------------");
+                Console.WriteLine("--------------");
 
             }
 
